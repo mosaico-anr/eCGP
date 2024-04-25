@@ -1,0 +1,9 @@
+[submodule "game-stream-server"]
+	path = game-stream-server
+	url = https://github.com/Nayald/game-stream-server.git
+[submodule "game-stream-client"]
+	path = game-stream-client
+	url = https://github.com/Nayald/game-stream-client.git
+[submodule "game-stream-scream-proxy"]
+	path = game-stream-scream-proxy
+	url = https://github.com/Nayald/game-stream-scream-proxy.git
